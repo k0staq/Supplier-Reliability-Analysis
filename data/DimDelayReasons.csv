@@ -1,0 +1,7 @@
+DelayReasonID;ReasonName;Category
+1;Weather delay;External
+2;Production issue;Internal
+3;Customs clearance;External
+4;Transport issue;External
+5;Documentation error;Internal
+6;Capacity shortage;Internal

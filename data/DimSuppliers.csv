@@ -1,0 +1,21 @@
+SupplierID;SupplierName;Country;Rating;LeadTimeTargetDays;Supplier Risk Tier
+1;Alpha-M Co.;FR;B;14;?? Critical
+2;Beta Industrial;DE;D;11;?? Low Risk
+3;Gamma Technologies;CZ;A;13;?? Low Risk
+4;Delta Components;FR;C;9;?? High Cost
+5;Epsilon Engineering;FR;A;6;?? High Frequency
+6;Zeta Precision;DE;B;14;?? Low Risk
+7;ETA Power Systems;FR;A;9;?? High Frequency
+8;Theta Logistics;DE;D;4;?? Low Risk
+9;Iota Machine Works;SK;A;8;?? Low Risk
+10;KAPPA Automation;IT;A;12;?? Low Risk
+11;Lambda Metals;NL;B;9;?? Low Risk
+12;MU Materials;FR;C;10;?? Low Risk
+13;XI Manufacturing Group;DE;B;12;?? Low Risk
+14;Omicron Supplies;CZ;A;11;?? Low Risk
+15;PI Robotics;IT;A;5;?? Low Risk
+16;RHO Mechanical;CZ;D;6;?? Low Risk
+17;Tau Motion;DE;D;5;?? Low Risk
+18;Upsilon Industrial Co.;FR;B;4;?? Low Risk
+19;Regal Industry Co.;DE;B;11;?? Low Risk
+20;SKy-NETs Robotics;DE;D;5;?? Low Risk
